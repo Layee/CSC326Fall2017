@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(4): error C2955: 'PlainBox': use of class template requires template argument list
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(5): error C2509: '{ctor}': member function not declared in 'PlainBox'
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(8): error C2955: 'PlainBox': use of class template requires template argument list
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(8): error C2143: syntax error: missing ',' before '&'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(9): error C2509: '{ctor}': member function not declared in 'PlainBox'
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(14): error C2955: 'PlainBox': use of class template requires template argument list
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(14): error C2143: syntax error: missing ',' before '&'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(15): error C2509: 'setItem': member function not declared in 'PlainBox'
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(20): error C2955: 'PlainBox': use of class template requires template argument list
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(20): error C2143: syntax error: missing ';' before 'PlainBox<ItemType>::getItem'
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.cpp(21): error C2509: 'getItem': member function not declared in 'PlainBox'
+  c:\users\abraham\desktop\fall2017\csc326\overload_operators\plainbox.h(14): note: see declaration of 'PlainBox'

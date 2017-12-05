@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\abraham\desktop\csc326\labone\labone\sequence.cpp(29): error C2065: 'nume_used': undeclared identifier
+  c:\users\abraham\desktop\csc326\labone\labone\sequence.cpp(28): note: while compiling class template member function 'bool Sequence<std::string>::isEmpty(void)'
+  c:\users\abraham\desktop\csc326\labone\labone\main.cpp(11): note: see reference to function template instantiation 'bool Sequence<std::string>::isEmpty(void)' being compiled
+  c:\users\abraham\desktop\csc326\labone\labone\main.cpp(9): note: see reference to class template instantiation 'Sequence<std::string>' being compiled
